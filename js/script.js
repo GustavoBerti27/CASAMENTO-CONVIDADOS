@@ -187,7 +187,14 @@
         "PANELA DE PRESSÃO": "../img/pressão.jpg",
         "PANELA DE PRESSÃO ELETRICA": "../img/PANELA DE PRESSÃO ELETRICA.jpg",
         "TRAVESSA DE INOX": "../img/forma.jpg",
-        "TRAVESSA DE VIDRO (MARINEX)": "../img/marinex.jpg"
+        "TRAVESSA DE VIDRO (MARINEX)": "../img/marinex.jpg",
+
+        "TRAVESSEIRO ANTI-ALÉRGICO NASA": "../img/Nasa.webp",
+        "TÁBUA DE PASSAR ROUPA": "../img/Tabua-de-passar-roupa-com-forro-termico-regulagem-de-altura-Utimil-1345842.webp",
+        "GRILL REDONDO ELÉTRICO SMART GRILL, PRETO, 1200W, 110V OU BIVOLT": "../img/GRILL.jpeg",
+        "CHURRASQUEIRA": "../img/churras.webp",
+        "VENTILADOR 8 PÁS": "../img/ventila.webp",
+        "SANDUICHEIRA GRILL": "../img/sanduba.webp"
     };
 
     document.querySelectorAll('.item-presente').forEach(item => {
