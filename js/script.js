@@ -194,7 +194,11 @@
         "GRILL REDONDO ELÉTRICO SMART GRILL, PRETO, 1200W, 110V OU BIVOLT": "../img/GRILL.jpeg",
         "CHURRASQUEIRA": "../img/churras.webp",
         "VENTILADOR 8 PÁS": "../img/ventila.webp",
-        "SANDUICHEIRA GRILL": "../img/sanduba.webp"
+        "SANDUICHEIRA GRILL": "../img/sanduba.webp",
+        
+        "ASPIRADOR PÓ E ÁGUA ELECTROLUX": "../img/axpi1.jpeg",
+        "ASPIRADOR DE PÓ MONDIAL TURBO": "../img/axpi2.jpeg"
+
     };
 
     document.querySelectorAll('.item-presente').forEach(item => {
